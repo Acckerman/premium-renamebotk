@@ -18,7 +18,7 @@ import os
 CHANNEL = os.environ.get('CHANNEL', "")
 STRING = os.environ.get("STRING", "")
 ADMIN = int(os.environ.get("ADMIN", 1753576629))
-bot_username = os.environ.get("BOT_USERNAME","Ajith657_bot")
+bot_username = os.environ.get("BOT_USERNAME","Walter_white_BB_bot")
 log_channel = int(os.environ.get("LOG_CHANNEL", ""))
 token = os.environ.get('TOKEN', '')
 botid = token.split(':')[0]
